@@ -25,6 +25,10 @@ ECG data is obtained from:
 
 [Physionet Database](https://archive.physionet.org/cd-updates/)
 
+I have published this project in MGM Journal of Medical Sciences. It can be found here:
+
+[Poincare plot: A simple and powerful expression of physiological variability](https://www.mgmjms.com/article.asp?issn=2347-7946;year=2021;volume=8;issue=4;spage=435;epage=441;aulast=Bhat)
+
 ***
 
 ## Who am I?
