@@ -8,10 +8,10 @@ This repository is having all the codes used in the Mini Project during my Third
 
 I have used Spyder IDE throughout the project. The following libraries need to installed:
 
-'''Python
+```Python
 pip install heartpy
 pip install tkinter
-'''
+```
 
 ***
 
